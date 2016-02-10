@@ -1,0 +1,31 @@
+body {
+	background-color: #dddddd; 
+}
+
+#container {
+
+	width: 100%;
+}
+#container-1200 {
+	background-color: white;
+	max-width: 1200px;
+	max-height: 700px;
+}
+#gallowsBox {
+	max-width: 600px;
+	max-height: 300px;
+	min-height: 300px;
+	background-color: #eeeeee;
+}
+.theMan{
+	float: left;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #aaaaaa;
+	color: #ffffff;
+	background-color: #cccccc;
+}
+.invisible {
+	/*display: none;*/
+}
+
